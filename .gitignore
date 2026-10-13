@@ -1,0 +1,31 @@
+
+# Archivos temporales generados por Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Archivos de compilacion
+[Bb]uild/
+[Bb]uilds/
+
+# Archivos de Visual Studio y VS Code
+.vs/
+.vscode/
+
+# Archivos de soluciones y proyectos C#
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svclog
+
+# Archivos temporales y del sistema
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
